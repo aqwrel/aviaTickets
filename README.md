@@ -2,6 +2,12 @@
 
 > A Vue.js project
 
+## Demo 
+  [link](https://aqwrel.github.io/project/tickets/index.html)]
+
+## task
+  [link](https://github.com/KosyanMedia/test-tasks/tree/master/aviasales_frontend)
+
 ## Build Setup
 
 ``` bash
